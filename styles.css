@@ -20,7 +20,7 @@ img {
 
 /* Start Hero Section CSS */
     #hero {
-        background-image: url("images/torshov.jpg");
+        background-image: url("images/main.jpg");
         background-size: cover;
         padding: 19% 0;
 
@@ -30,7 +30,7 @@ img {
     }
 
     #hero-h1 {
-        background: #1D3557;
+        background: #D36135;
         color: white;
         border-radius: 12px;
         padding: 5px 15px;
@@ -38,7 +38,7 @@ img {
     }
 
     #hero-h2 {
-        background: #457B9D;
+        background: #ffba08;
         color: white;
         border-radius: 12px;
         padding: 10px 10px;
@@ -56,7 +56,7 @@ img {
     .activity {
         display: flex;
         justify-content: center;
-        align-items: center;
+        /* align-items: center; */
     }
 
     .activiy-img {
